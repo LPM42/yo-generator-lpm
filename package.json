@@ -1,0 +1,17 @@
+{
+  "name": "generator-lpm",
+  "version": "0.0.0",
+  "description": "Basic Generator",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Livingston Martin",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.17.2"
+  }
+}
